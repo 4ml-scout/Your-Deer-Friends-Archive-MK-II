@@ -4,5 +4,16 @@
   "artist": "Iwaaki Haru",
   "author": "Iwaaki Haru",
   "cover": "https://cdn.imgchest.com/files/d2bbf3440662.jpg",
-  "chapters": {}
+  "chapters": {
+    "8": {
+      "title": "Chapter 8",
+      "volume": "3",
+      "last_updated": "1764483833",
+      "groups": {
+        "Your Deer Friends": [
+          "https://imgchest.com/p/m9yxnvjdq7q"
+        ]
+      }
+    }
+  }
 }
